@@ -1,0 +1,16 @@
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+dist
+.sonarlint
+.vscode
+.node_history
+.history
+.vscode
+assets/Adoric.sublime-project
+assets/Adoric.sublime-workspace
+node_history
+node_modules
